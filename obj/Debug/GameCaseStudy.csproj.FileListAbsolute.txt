@@ -1,0 +1,24 @@
+D:\COMPUTER SCIENCE\PD\GameCaseStudy\obj\Debug\GameCaseStudy.csproj.AssemblyReference.cache
+D:\COMPUTER SCIENCE\PD\GameCaseStudy\obj\Debug\GameCaseStudy.csproj.SuggestedBindingRedirects.cache
+D:\COMPUTER SCIENCE\PD\GameCaseStudy\obj\Debug\GameCaseStudy.csproj.CoreCompileInputs.cache
+D:\COMPUTER SCIENCE\PD\GameCaseStudy\bin\Debug\GameCaseStudy.exe.config
+D:\COMPUTER SCIENCE\PD\GameCaseStudy\bin\Debug\GameCaseStudy.exe
+D:\COMPUTER SCIENCE\PD\GameCaseStudy\bin\Debug\GameCaseStudy.pdb
+D:\COMPUTER SCIENCE\PD\GameCaseStudy\obj\Debug\GameCaseStudy.exe
+D:\COMPUTER SCIENCE\PD\GameCaseStudy\obj\Debug\GameCaseStudy.pdb
+D:\COMPUTER SCIENCE\PD\Done\GameCaseStudy\bin\Debug\GameCaseStudy.exe.config
+D:\COMPUTER SCIENCE\PD\Done\GameCaseStudy\bin\Debug\GameCaseStudy.exe
+D:\COMPUTER SCIENCE\PD\Done\GameCaseStudy\bin\Debug\GameCaseStudy.pdb
+D:\COMPUTER SCIENCE\PD\Done\GameCaseStudy\obj\Debug\GameCaseStudy.csproj.AssemblyReference.cache
+D:\COMPUTER SCIENCE\PD\Done\GameCaseStudy\obj\Debug\GameCaseStudy.csproj.SuggestedBindingRedirects.cache
+D:\COMPUTER SCIENCE\PD\Done\GameCaseStudy\obj\Debug\GameCaseStudy.csproj.CoreCompileInputs.cache
+D:\COMPUTER SCIENCE\PD\Done\GameCaseStudy\obj\Debug\GameCaseStudy.exe
+D:\COMPUTER SCIENCE\PD\Done\GameCaseStudy\obj\Debug\GameCaseStudy.pdb
+D:\COMPUTER SCIENCE\PD\Assignemnt\Game Object\Code\GameCaseStudy\obj\Debug\GameCaseStudy.csproj.AssemblyReference.cache
+D:\COMPUTER SCIENCE\PD\Assignemnt\Game Object\Code\GameCaseStudy\obj\Debug\GameCaseStudy.csproj.SuggestedBindingRedirects.cache
+D:\COMPUTER SCIENCE\PD\Assignemnt\Game Object\Code\GameCaseStudy\obj\Debug\GameCaseStudy.csproj.CoreCompileInputs.cache
+D:\COMPUTER SCIENCE\PD\Assignemnt\Game Object\Code\GameCaseStudy\obj\Debug\GameCaseStudy.exe
+D:\COMPUTER SCIENCE\PD\Assignemnt\Game Object\Code\GameCaseStudy\obj\Debug\GameCaseStudy.pdb
+D:\COMPUTER SCIENCE\PD\Assignemnt\Game Object\Code\GameCaseStudy\bin\Debug\GameCaseStudy.exe.config
+D:\COMPUTER SCIENCE\PD\Assignemnt\Game Object\Code\GameCaseStudy\bin\Debug\GameCaseStudy.exe
+D:\COMPUTER SCIENCE\PD\Assignemnt\Game Object\Code\GameCaseStudy\bin\Debug\GameCaseStudy.pdb
