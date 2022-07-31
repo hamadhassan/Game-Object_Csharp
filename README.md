@@ -26,3 +26,19 @@ It contains 4 attributes:
     ● A StartingPoint (Point type).
     ● A Premises (Boundary type).
     ● A Direction (String type).
+## Domain Model
+### Class name
+![class](https://user-images.githubusercontent.com/96945594/182033049-0fb7b509-ae0f-4b71-b8f0-1e25040715de.jpg)
+### Relations and Constraints
+![constrain](https://user-images.githubusercontent.com/96945594/182033051-6bba3b0a-cd49-4450-8b6d-a3a15a064a78.jpg)
+### Multiplicity
+![multiplicty](https://user-images.githubusercontent.com/96945594/182033045-218ed81a-48d3-4940-835e-b8b4d7a6b1a5.jpg)
+### Attributes and Function
+#### Business Logic Layer
+![bl](https://user-images.githubusercontent.com/96945594/182033060-540ae06e-11f5-4004-9956-2a8aa35d818e.JPG)
+#### Data Layer
+![dl](https://user-images.githubusercontent.com/96945594/182033062-e3f86b37-3e13-481d-b281-e3ac67b036f2.JPG)
+#### User Interfaces Layer
+![ul](https://user-images.githubusercontent.com/96945594/182033057-92461da1-eb44-42c6-98bb-6f08ba29cb2b.JPG)
+
+
